@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+BreezIL is a smart, trustworthy Israeli summer comfort brand that curates simple and effective cooling solutions for the intense Israeli heat. The brand speaks 
+
+### על הגישה
+https://example.com/about
+על הגישה | BreezIL. מאוורר צוואר נטען
+
+### שאלות נפוצות
+https://example.com/faq
+שאלות נפוצות | BreezIL. מאוורר צוואר נטען
+
+### צור קשר
+https://example.com/contact
+צור קשר | BreezIL. מאוורר צוואר נטען
+
+### Products
+https://example.com/products
+המוצרים שלנו - BreezIL
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - BreezIL
+
+### Category
+https://example.com/category/:slug
+מוצרים - BreezIL
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
